@@ -1,0 +1,10 @@
+{
+  "name": "swoole-ant/ant-rpc",
+  "version": "0.0.1",
+  "dependencies": "ant-rpc library",
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+  }
+}
