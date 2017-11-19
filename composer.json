@@ -6,8 +6,10 @@
     "php": ">=5.6"
   },
   "autoload": {
-    "packer" : "packer/",
-    "scheduler" : "scheduler/",
-    "sdk" : "sdk/"
+    "psr-4": {
+      "packer": "packer/",
+      "scheduler": "scheduler/",
+      "sdk": "sdk/"
+    }
   }
 }
