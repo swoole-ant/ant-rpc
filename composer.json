@@ -7,9 +7,9 @@
   },
   "autoload": {
     "psr-4": {
-      "packer": "packer/",
-      "scheduler": "scheduler/",
-      "sdk": "sdk/"
+      "packer\\": "packer/",
+      "scheduler\\": "scheduler/",
+      "sdk\\": "sdk/"
     }
   }
 }
